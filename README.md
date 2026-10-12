@@ -5,7 +5,6 @@ Before this I was a Digital Specialist Engineer at **Infosys** (Java / AEM). I b
 
 - 🧑‍🏫 Teaching Assistant at IIIT Allahabad for Operating Systems, Cyber Security, and Design & Analysis of Algorithms
 - 🏆 GATE 2025 (CS): score 582, top 2.2% nationwide
-- 🎓 B.E. Information Science & Engineering, New Horizon College of Engineering (GPA 9.02/10)
 - 📫 chinmayanayak018@gmail.com
 
 ---
